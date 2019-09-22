@@ -40,3 +40,7 @@ Jun. 2018 - p.t. Courses Mr. English
 ### Languages:
 
 A2+ level of English. I started to learn English last year on courses Mr. English and I keep going.
+
+[![Icon of GitHub](/icons/github.svg)](https://github.com/YuliaBakhar)
+[![IIcon of Telegram](/icons/telegram.svg)](https://t.me/foultra)
+[![Icon of Instagram](/icons/instagram.svg)](https://www.instagram.com/foultra)
