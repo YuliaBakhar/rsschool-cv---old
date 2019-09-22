@@ -18,7 +18,7 @@ My goal for now is to become a senior Front-end developer in 3 years. Being the 
 - React: Middle
 - Redux: Middle
 - Gatsby: Basic
-- Next.js - Basic
+- Next.js: Basic
 
 ### Code examples:
 
@@ -29,12 +29,12 @@ My goal for now is to become a senior Front-end developer in 3 years. Being the 
 ### Experience:
 
 May. 2017 - Aug. 2018 - ЧПУП "Четыре Д", IT consultant  
-Aug. 2018 - Aug. 2019 - ИП Дудуко, programmer,
+Aug. 2018 - Aug. 2019 - ИП Дудуко, programmer,  
 May. 2019 - p.t. - "Yellow square", front-end developer
 
 ### Education:
 
-Sep. 2013 - Jul. 2017 Grodno State Universety, mathmatician economist
+Sep. 2013 - Jul. 2017 Grodno State Universety, mathmatician economist  
 Jun. 2018 - p.t. Courses Mr. English
 
 ### Languages:
