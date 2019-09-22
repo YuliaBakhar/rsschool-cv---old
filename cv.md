@@ -22,6 +22,10 @@ My goal for now is to become a senior Front-end developer in 3 years. Being the 
 
 ### Code examples:
 
+- [Todo list](https://github.com/YuliaBakhar/todolist)
+- [Quadratic Equation](https://github.com/YuliaBakhar/quadratic-equation)
+- [Bracets](https://github.com/YuliaBakhar/additional_5)
+
 ### Experience:
 
 May. 2017 - Aug. 2018 - ЧПУП "Четыре Д", IT consultant  
